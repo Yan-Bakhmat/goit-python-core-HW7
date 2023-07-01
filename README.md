@@ -1,2 +1,3 @@
-# goit-python-core-HW6
+# goit-python-core-HW7
+
 Програма для сортування директорій.
